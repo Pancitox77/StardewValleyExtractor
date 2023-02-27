@@ -1,18 +1,23 @@
 
 # Getting Started
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+The "Stardew Valley Extractor" is an app designed to facilitate and speed up the reading of information about the game.
+The data is extracted from the game's wiki: Stardew Valley Wiki[https://es.stardewvalleywiki.com/Stardew_Valley_Wiki], using a Web Scrapper.
+
+## Using The App (Users info)
+
+- Using VSCode: Open the project folder, go to `src/App.java` and run.
 
 ## Folder Structure
 
-The workspace contains two folders by default, where:
+The workspace contains the nexts folders:
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+- `src`: the folder to maintain sources.
+- `lib`: the folder to maintain dependencies.
+- `javafx-sdk-19`: the folder with the dependencies of JavaFX framework.
+- `.vscode` : the folder to maintain IDE preferences.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+Meanwhile, the compiled output files will be generated in the `bin` folder.
 
 ## Dependency Management
 
